@@ -22,7 +22,7 @@ const App = () => {
       <div className='max-w-xl mx-auto p-5 flex  justify-center flex-col h-screen'>
         <div className='soft-red p-5 rounded-2xl shadow flex items-center justify-between '>
           <h2 className='font-bold text-white text-3xl'><span className='block text-base font-normal'>My Balance</span>$921.48</h2>
-          <img src={logo}  />
+          <img src={logo} alt="" />
         </div>
         <div className='bg-white mt-8 p-8 rounded-2xl box-shadow'>
           <div className='pb-8'>
